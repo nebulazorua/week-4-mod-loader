@@ -1,0 +1,59 @@
+{
+  "pos": {
+    "x": 100,
+    "y": 400
+  },
+  "FlipX":true,
+  "playable": false,
+  "sprites": {
+    "atlas": "Pico_FNF_assetss",
+    "idle": "Pico Idle Dance",
+    "singUP": "pico Up note0",
+    "singRIGHT": "Pico NOTE LEFT0",
+    "singDOWN": "Pico Down Note0",
+    "singLEFT": "Pico Note Right0",
+
+    "singUPmiss": "pico Up note miss",
+    "singRIGHTmiss": "Pico NOTE LEFT miss",
+    "singDOWNmiss": "Pico Down Note MISS",
+    "singLEFTmiss": "Pico Note Right Miss"
+  },
+  "offsets": {
+    "idle":{
+      "x":0,
+      "y":0
+    },
+    "singUP":{
+      "x":-29,
+      "y":27
+    },
+    "singRIGHT":{
+      "x": -68,
+      "y": -7
+    },
+    "singLEFT":{
+      "x": 65,
+      "y": 9
+    },
+    "singDOWN": {
+      "x": 200,
+      "y": -70
+    },
+    "singUPmiss":{
+      "x":-19,
+      "y":67
+    },
+    "singRIGHTmiss":{
+      "x": -60,
+      "y": 41
+    },
+    "singLEFTmiss":{
+      "x": 62,
+      "y": 64
+    },
+    "singDOWNmiss": {
+      "x": 210,
+      "y": -28
+    }
+  }
+}

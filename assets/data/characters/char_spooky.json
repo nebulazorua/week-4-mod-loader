@@ -1,0 +1,52 @@
+{
+  "pos": {
+    "x": 100,
+    "y": 300
+  },
+  "playable": false,
+  "sprites": {
+    "atlas": "spooky_kids_assets",
+    "danceLeft": [
+      "spooky dance idle",
+      [0,2,6],
+      "",
+      12
+    ],
+    "danceRight": [
+      "spooky dance idle",
+      [8,10,12,14],
+      "",
+      12
+    ],
+    "singUP": "spooky UP NOTE",
+    "singRIGHT": "spooky sing right",
+    "singDOWN": "spooky DOWN note",
+    "singLEFT": "note sing left"
+  },
+  "offsets": {
+    "danceLeft":{
+      "x":0,
+      "y":0
+    },
+    "danceRight":{
+      "x":0,
+      "y":0
+    },
+    "singUP":{
+      "x":-20,
+      "y":26
+    },
+    "singRIGHT":{
+      "x": -130,
+      "y": -14
+    },
+    "singLEFT":{
+      "x": 130,
+      "y": -10
+    },
+    "singDOWN": {
+      "x": -50,
+      "y": -130
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "pos": {
+    "x": 100,
+    "y": 400
+  },
+  "FlipX":true,
+  "playable": false,
+  "sprites": {
+    "atlas": "Imposto",
+    "idle": "Pico Idle Dance",
+    "singUP": "pico Up note0",
+    "singRIGHT": "Pico NOTE LEFT0",
+    "singDOWN": "Pico Down Note0",
+    "singLEFT": "Pico Note Right0"
+
+  },
+  "offsets": {
+    "idle":{
+      "x":0,
+      "y":0
+    },
+    "singUP":{
+      "x":0,
+      "y":0
+    },
+    "singRIGHT":{
+      "x": 0,
+      "y": 0
+    },
+    "singLEFT":{
+      "x": 0,
+      "y": 0
+    },
+    "singDOWN": {
+      "x": 0,
+      "y": 0
+    }
+  }
+}

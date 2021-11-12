@@ -1,0 +1,37 @@
+{
+  "pos": {
+    "x": 100,
+    "y": 100
+  },
+  "playable": false,
+  "sprites": {
+    "atlas": "Mom_Assets",
+    "idle": "Mom Idle",
+    "singUP": "Mom Up Pose",
+    "singRIGHT": "Mom Pose Left",
+    "singDOWN": "MOM DOWN POSE",
+    "singLEFT": "Mom Left Pose"
+  },
+  "offsets": {
+    "idle":{
+      "x":0,
+      "y":0
+    },
+    "singUP":{
+      "x":14,
+      "y":71
+    },
+    "singRIGHT":{
+      "x": 10,
+      "y": -60
+    },
+    "singLEFT":{
+      "x": 250,
+      "y": -23
+    },
+    "singDOWN": {
+      "x": 20,
+      "y": -160
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "pos": {
+    "x": 100,
+    "y": 100
+  },
+  "playable": false,
+  "sprites": {
+    "atlas": "miku",
+    "idle": "Dad idle dance",
+    "singUP": "Dad Sing Note UP",
+    "singRIGHT": "Dad Sing Note RIGHT",
+    "singDOWN": "Dad Sing Note DOWN",
+    "singLEFT": "Dad Sing Note LEFT"
+  },
+  "offsets": {
+    "idle":{
+      "x":0,
+      "y":0
+    },
+    "singUP":{
+      "x":-6,
+      "y":50
+    },
+    "singRIGHT":{
+      "x": 0,
+      "y": 27
+    },
+    "singLEFT":{
+      "x": -10,
+      "y": -10
+    },
+    "singDOWN": {
+      "x": 0,
+      "y": -30
+    }
+  }
+}

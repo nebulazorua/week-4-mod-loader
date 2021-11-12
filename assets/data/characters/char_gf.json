@@ -1,0 +1,92 @@
+{
+  "pos": {
+    "x": 100,
+    "y": 100
+  },
+  "playable": false,
+  "sprites": {
+    "atlas": "GF_assets",
+    "cheer": "GF Cheer",
+    "singUP": "GF Up Note",
+    "singRIGHT": "GF Right Note",
+    "singDOWN": "GF Down Note",
+    "singLEFT": "GF left note",
+    "sad": [
+      "gf sad",
+      [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+      "",
+      24
+    ],
+    "danceLeft": [
+      "GF Dancing Beat",
+      [30,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14],
+      "",
+      24
+    ],
+    "danceRight": [
+      "GF Dancing Beat",
+      [15,16,17,18,19,20,21,22,23,24,25,26,27,28,29],
+      "",
+      24
+    ],
+    "hairBlow": [
+      "GF Dancing Beat Hair blowing",
+      [0,1,2,3],
+      "",
+      24
+    ],
+    "hairFall": [
+      "GF Dancing Beat Hair Landing",
+      [0,1,2,3,4,5,6,7,8,9,10,11],
+      "",
+      24
+    ],
+    "scared": "GF FEAR"
+  },
+  "offsets": {
+    "cheer":{
+      "x":0,
+      "y":0
+    },
+    "sad":{
+      "x":-2,
+      "y":-2
+    },
+    "danceLeft":{
+      "x":0,
+      "y":-9
+    },
+    "danceRight":{
+      "x":0,
+      "y":-9
+    },
+    "singUP":{
+      "x":0,
+      "y":4
+    },
+    "singRIGHT":{
+      "x": 0,
+      "y": -20
+    },
+    "singLEFT":{
+      "x": 0,
+      "y": -19
+    },
+    "singDOWN": {
+      "x": 0,
+      "y": -20
+    },
+    "hairBlow": {
+      "x": 45,
+      "y": -8
+    },
+    "hairFall": {
+      "x": 0,
+      "y": -9
+    },
+    "scared": {
+      "x": -2,
+      "y": -17
+    }
+  }
+}

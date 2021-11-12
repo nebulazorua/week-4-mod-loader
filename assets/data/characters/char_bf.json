@@ -1,0 +1,95 @@
+{
+  "pos": {
+    "x": 100,
+    "y": 100
+  },
+  "playable": false,
+  "sprites": {
+    "atlas": "BOYFRIEND",
+    "idle": "BF idle dance",
+    "singUP": "BF NOTE UP0",
+    "singRIGHT": "BF NOTE RIGHT0",
+    "singDOWN": "BF NOTE DOWN0",
+    "singLEFT": "BF NOTE LEFT0",
+
+    "singUPmiss": "BF NOTE UP MISS",
+    "singRIGHTmiss": "BF NOTE RIGHT MISS",
+    "singDOWNmiss": "BF NOTE DOWN MISS",
+    "singLEFTmiss": "BF NOTE LEFT MISS",
+
+    "hey": "BF HEY",
+
+    "firstDeath": "BF dies",
+    "deathLoop": "BF Dead Loop",
+    "deathConfirm":"BF Dead confirm",
+
+    "scared": "BF idle shaking"
+  },
+  "offsets": {
+    "idle":{
+      "x":-5,
+      "y":0
+    },
+    "singUP":{
+      "x":-29,
+      "y":27
+    },
+    "singRIGHT":{
+      "x": -38,
+      "y": -7
+    },
+    "singLEFT":{
+      "x": 12,
+      "y": -6
+    },
+    "singDOWN": {
+      "x": -10,
+      "y": -50
+    },
+
+    "singUPmiss":{
+      "x":-29,
+      "y":27
+    },
+    "singRIGHTmiss":{
+      "x": -30,
+      "y": 21
+    },
+    "singLEFTmiss":{
+      "x": 12,
+      "y": 24
+    },
+    "singDOWNmiss": {
+      "x": -11,
+      "y": -19
+    },
+
+    "hey": {
+      "x": 7,
+      "y": 4
+    },
+
+    "hey": {
+      "x": 7,
+      "y": 4
+    },
+
+    "firstDeath": {
+      "x":37,
+      "y":11
+    },
+    "deathLoop":{
+      "x":37,
+      "y":5
+    },
+    "deathConfirm":{
+      "x":37,
+      "y":69
+    },
+
+    "scared":{
+      "x":-4,
+      "y":0
+    }
+  }
+}

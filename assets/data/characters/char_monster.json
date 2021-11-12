@@ -1,0 +1,37 @@
+{
+  "pos": {
+    "x": 100,
+    "y": 200
+  },
+  "playable": false,
+  "sprites": {
+    "atlas": "Monster_Assets",
+    "idle": "monster idle",
+    "singUP": "monster up note",
+    "singRIGHT": "Monster Right note",
+    "singDOWN": "monster down",
+    "singLEFT": "Monster left note"
+  },
+  "offsets": {
+    "idle":{
+      "x":0,
+      "y":0
+    },
+    "singUP":{
+      "x":-20,
+      "y":50
+    },
+    "singRIGHT":{
+      "x": -51,
+      "y": 0
+    },
+    "singLEFT":{
+      "x": -30,
+      "y": 0
+    },
+    "singDOWN": {
+      "x": -30,
+      "y": -40
+    }
+  }
+}

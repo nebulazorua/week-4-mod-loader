@@ -1,0 +1,38 @@
+{
+  "pos": {
+    "x": 100,
+    "y": 325
+  },
+  "FlipX":true,
+  "playable": false,
+  "sprites": {
+    "atlas": "Carol",
+    "idle": "Pico Idle Dance",
+    "singUP": "pico Up note0",
+    "singRIGHT": "Pico NOTE LEFT0",
+    "singDOWN": "Pico Down Note0",
+    "singLEFT": "Pico Note Right0"
+  },
+  "offsets": {
+    "idle":{
+      "x":-10,
+      "y":20
+    },
+    "singUP":{
+      "x":-40,
+      "y":23
+    },
+    "singRIGHT":{
+      "x": -80,
+      "y": 0
+    },
+    "singLEFT":{
+      "x": 45,
+      "y": 14
+    },
+    "singDOWN": {
+      "x": 176,
+      "y": -60
+    }
+  }
+}

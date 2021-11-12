@@ -1,0 +1,37 @@
+{
+  "pos": {
+    "x": 100,
+    "y": 100
+  },
+  "playable": false,
+  "sprites": {
+    "atlas": "sprite_atlas",
+    "idle": "idle dance",
+    "singUP": "Sing Note UP",
+    "singRIGHT": "Sing Note RIGHT",
+    "singDOWN": "Sing Note DOWN",
+    "singLEFT": "Sing Note LEFT"
+  },
+  "offsets": {
+    "idle":{
+      "x":0,
+      "y":0
+    },
+    "singUP":{
+      "x":0,
+      "y":0
+    },
+    "singRIGHT":{
+      "x": 0,
+      "y": 0
+    },
+    "singLEFT":{
+      "x": 0,
+      "y": 0
+    },
+    "singDOWN": {
+      "x": 0,
+      "y": 0
+    }
+  }
+}
